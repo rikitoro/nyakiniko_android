@@ -1,0 +1,21 @@
+body {
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   background: #fff;
+}
+
+#page{
+   background: #aaf;
+   margin:0 auto;
+   padding: 0px 0px 0px 0px;
+   width: 320px;
+}
+
+article#nyakinekocanvas{
+   background: #ccf;
+   width: 32xs0px;
+   height: 450px;
+   margin:0 auto;
+}
+
+
